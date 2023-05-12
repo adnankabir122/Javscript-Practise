@@ -1,0 +1,14 @@
+1. Variable - var, let, const
+2. Array, Array Methods
+3. if-else,break,continue,ternary operator
+4. Math
+5. Type conversion
+6. Functions basic concepts
+7. String, String Methods
+8. String Template Literals
+9. Object Basic
+
+------------------------------
+> Object Oriented Programming
+> DOM
+> BOM

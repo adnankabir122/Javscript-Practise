@@ -1,0 +1,17 @@
+1. DOM -> Document Object Model
+
+
+Lama Dev : https://www.youtube.com/watch?v=WfC63i5LZXA&list=PL1BztTYDF-QMThfarnu3KvxVwiLKAFbsK
+
+2. BOM -> Browser Object Model
+
+3. Asynchronus Javascript -> Callback Function, Promise, Async Await
+
+4. Implement Small Projects
+
+5. Object & Object Oriented Javascript
+Tech Gun -> https://www.youtube.com/watch?v=bBpKJccIdvQ&list=PLjpp5kBQLNTSvHo6Rp4Ky0X8x_MabmKye
+
+6. ES6
+
+7. API Implement
