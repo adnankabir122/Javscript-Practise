@@ -1,6 +1,7 @@
 //Obejct - properties, methods()
 // Array - index : value
 // key : value 
+
 let person = {
     fname: "Adnan Kabir",
     lname: "Akon",
