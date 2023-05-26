@@ -41,8 +41,8 @@
 
 
 // toFixed()
-let num = 5.56789
-console.log(num.toFixed(2))
+// let num = 5.56789
+// console.log(num.toFixed(2))
 
 // document.querySelector(".tm").innerHTML = "Menu"
 

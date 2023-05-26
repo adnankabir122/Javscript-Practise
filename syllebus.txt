@@ -1,6 +1,4 @@
 1. DOM -> Document Object Model
-
-
 Lama Dev : https://www.youtube.com/watch?v=WfC63i5LZXA&list=PL1BztTYDF-QMThfarnu3KvxVwiLKAFbsK
 
 2. BOM -> Browser Object Model
