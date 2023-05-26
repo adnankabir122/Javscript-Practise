@@ -8,3 +8,5 @@
 // 4. querySelectorAll('')
 
 console.log(document.getElementsByClassName('fol'));
+
+const sum = () => console.log("kisu nai")
