@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Form</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+
+<body>
+    <!-- container start  -->
+    <div class="container">
+        
+        <form action="">
+            <h1>Registration Form</h1>
+            <label>First Name</label>
+            <input type="text" id="fname" name="firstname" value="John">
+
+            <label>Last Name</label>
+            <input type="text" id="lname" name="lastname" value="Smith">
+
+            <label>Email</label>
+            <input type="email" id="email" name="email" value="johnsmith@gmail.com">
+
+            <!-- html select option start -->
+            <label>Country</label>
+            <select name="country" id="country">
+                <option value="australia">Australia</option>
+                <option value="canada" >Canada</option>
+                <option value="usa" selected>USA</option>
+            </select>
+            <!-- html select option end -->
+
+            <!-- html radio button start  -->
+            <label >Gender:</label>
+            
+            <input type="radio" name="gender" id="male"  value="male" checked>
+            <label class="no-block" for="male">Male</label>
+
+            <input type="radio" name="gender" id="female" value="female" >
+            <label class="no-block" for="female">Female</label>
+            <!-- html radio button start  -->
+
+            <!-- html checkbox start  -->
+            <label>Hobbies:</label>
+
+            <label class="no-block"><input type="checkbox" name="hobbies" value="sports" checked>Sports</label>
+            <label class="no-block"><input type="checkbox" name="hobbies" value="movies">Movies</label>
+            <label class="no-block"><input type="checkbox" name="hobbies" value="music" checked>Music</label>
+            <!-- html checkbox end  -->
+
+            <!-- submit button  -->
+            <input type="submit" value="Submit">
+
+        </form>
+
+    </div>
+    <!-- container end  -->
+
+    <script src="form.js"></script>
+</body>
+
+</html>
